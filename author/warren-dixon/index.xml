@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warren Dixon | M. Nicholas Musselwhite</title>
-    <link>https://nickmusselwhite.github.io/author/warren-dixon/</link>
-      <atom:link href="https://nickmusselwhite.github.io/author/warren-dixon/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/warren-dixon/</link>
+      <atom:link href="/author/warren-dixon/index.xml" rel="self" type="application/rss+xml" />
     <description>Warren Dixon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 M. Nicholas Musselwhite</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nickmusselwhite.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Warren Dixon</title>
-      <link>https://nickmusselwhite.github.io/author/warren-dixon/</link>
+      <link>/author/warren-dixon/</link>
     </image>
     
     <item>
       <title>Swallow Motor Pattern Is Modulated by Fixed or Stochastic Alterations in Afferent Feedback</title>
-      <link>https://nickmusselwhite.github.io/publication/2020-01-01_king_swallow_2020/</link>
+      <link>/publication/2020-01-01_king_swallow_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/publication/2020-01-01_king_swallow_2020/</guid>
+      <guid>/publication/2020-01-01_king_swallow_2020/</guid>
       <description></description>
     </item>
     

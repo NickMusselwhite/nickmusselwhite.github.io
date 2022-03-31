@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Simera | M. Nicholas Musselwhite</title>
-    <link>https://nickmusselwhite.github.io/author/m.-simera/</link>
-      <atom:link href="https://nickmusselwhite.github.io/author/m.-simera/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/m.-simera/</link>
+      <atom:link href="/author/m.-simera/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Simera</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 M. Nicholas Musselwhite</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nickmusselwhite.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>M. Simera</title>
-      <link>https://nickmusselwhite.github.io/author/m.-simera/</link>
+      <link>/author/m.-simera/</link>
     </image>
     
     <item>
       <title>GABA-ergic neurotransmission in the nucleus of the solitary tract modulates cough in the cat</title>
-      <link>https://nickmusselwhite.github.io/publication/2018-01-01_kotmanova_gaba-ergic_2018/</link>
+      <link>/publication/2018-01-01_kotmanova_gaba-ergic_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/publication/2018-01-01_kotmanova_gaba-ergic_2018/</guid>
+      <guid>/publication/2018-01-01_kotmanova_gaba-ergic_2018/</guid>
       <description></description>
     </item>
     

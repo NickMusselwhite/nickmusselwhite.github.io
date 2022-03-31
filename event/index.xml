@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | M. Nicholas Musselwhite</title>
-    <link>https://nickmusselwhite.github.io/event/</link>
-      <atom:link href="https://nickmusselwhite.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 M. Nicholas Musselwhite</copyright><lastBuildDate>Tue, 08 Mar 2022 18:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nickmusselwhite.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://nickmusselwhite.github.io/event/</link>
+      <link>/event/</link>
     </image>
     
     <item>
       <title>From Brain To Breath: The Neural Control of Respiration and Airway Protection</title>
-      <link>https://nickmusselwhite.github.io/talk/from-brain-to-breath-the-neural-control-of-respiration-and-airway-protection/</link>
+      <link>/talk/from-brain-to-breath-the-neural-control-of-respiration-and-airway-protection/</link>
       <pubDate>Tue, 08 Mar 2022 18:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/talk/from-brain-to-breath-the-neural-control-of-respiration-and-airway-protection/</guid>
+      <guid>/talk/from-brain-to-breath-the-neural-control-of-respiration-and-airway-protection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Control of Breathing and Airway Protective Behaviors</title>
-      <link>https://nickmusselwhite.github.io/talk/neural-control-of-breathing-and-airway-protective-behaviors/</link>
+      <link>/talk/neural-control-of-breathing-and-airway-protective-behaviors/</link>
       <pubDate>Mon, 28 Feb 2022 15:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/talk/neural-control-of-breathing-and-airway-protective-behaviors/</guid>
+      <guid>/talk/neural-control-of-breathing-and-airway-protective-behaviors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basic Science and Speech Language Pathology</title>
-      <link>https://nickmusselwhite.github.io/talk/basic-science-and-speech-language-pathology/</link>
+      <link>/talk/basic-science-and-speech-language-pathology/</link>
       <pubDate>Sat, 11 Sep 2021 18:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/talk/basic-science-and-speech-language-pathology/</guid>
+      <guid>/talk/basic-science-and-speech-language-pathology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Of Cats and Men: A Translational Tale</title>
-      <link>https://nickmusselwhite.github.io/talk/of-cats-and-men-a-translational-tale/</link>
+      <link>/talk/of-cats-and-men-a-translational-tale/</link>
       <pubDate>Thu, 11 Oct 2018 18:00:00 +0000</pubDate>
-      <guid>https://nickmusselwhite.github.io/talk/of-cats-and-men-a-translational-tale/</guid>
+      <guid>/talk/of-cats-and-men-a-translational-tale/</guid>
       <description></description>
     </item>
     
