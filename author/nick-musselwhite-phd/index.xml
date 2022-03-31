@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Musselwhite, PhD | M. Nicholas Musselwhite</title>
-    <link>https://academic-demo.netlify.app/author/nick-musselwhite-phd/</link>
-      <atom:link href="https://academic-demo.netlify.app/author/nick-musselwhite-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nickmusselwhite.github.io/author/nick-musselwhite-phd/</link>
+      <atom:link href="https://nickmusselwhite.github.io/author/nick-musselwhite-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Nick Musselwhite, PhD</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 M. Nicholas Musselwhite</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/author/nick-musselwhite-phd/avatar_huefc6d09d7a63669e57165e59b49d9aea_162552_270x270_fill_q75_lanczos_center.jpeg</url>
+      <url>https://nickmusselwhite.github.io/author/nick-musselwhite-phd/avatar_huefc6d09d7a63669e57165e59b49d9aea_162552_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Nick Musselwhite, PhD</title>
-      <link>https://academic-demo.netlify.app/author/nick-musselwhite-phd/</link>
+      <link>https://nickmusselwhite.github.io/author/nick-musselwhite-phd/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://academic-demo.netlify.app/post/getting-started/</link>
+      <link>https://nickmusselwhite.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/getting-started/</guid>
+      <guid>https://nickmusselwhite.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://academic-demo.netlify.app/post/jupyter/</link>
+      <link>https://nickmusselwhite.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/jupyter/</guid>
+      <guid>https://nickmusselwhite.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
