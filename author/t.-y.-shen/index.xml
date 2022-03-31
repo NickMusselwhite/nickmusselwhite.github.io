@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Y. Shen | M. Nicholas Musselwhite</title>
+    <link>https://academic-demo.netlify.app/author/t.-y.-shen/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/t.-y.-shen/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Y. Shen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>T. Y. Shen</title>
+      <link>https://academic-demo.netlify.app/author/t.-y.-shen/</link>
+    </image>
+    
+    <item>
+      <title>GABA-ergic neurotransmission in the nucleus of the solitary tract modulates cough in the cat</title>
+      <link>https://academic-demo.netlify.app/publication/2018-01-01_kotmanova_gaba-ergic_2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/2018-01-01_kotmanova_gaba-ergic_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
