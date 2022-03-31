@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | M. Nicholas Musselwhite</title>
-    <link>/publication.html</link>
+    <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 M. Nicholas Musselwhite</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication.html</link>
+      <link>/publication/</link>
     </image>
     
     <item>
       <title>Influence of Intrathoracic Vagotomy on the Cough Reflex in the Anesthetized Cat</title>
-      <link>/publication/2022-01-01_shen_influence_2022.html</link>
+      <link>/publication/2022-01-01_shen_influence_2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-01-01_shen_influence_2022.html</guid>
+      <guid>/publication/2022-01-01_shen_influence_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential effects of acute cerebellectomy on cough in spontaneously breathing cats</title>
-      <link>/publication/2021-01-01_musselwhite_differential_2021.html</link>
+      <link>/publication/2021-01-01_musselwhite_differential_2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-01-01_musselwhite_differential_2021.html</guid>
+      <guid>/publication/2021-01-01_musselwhite_differential_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Neuronal Excitation and Inhibition in the Pre-Bötzinger Complex on the Cough Reflex in the Cat</title>
-      <link>/publication/2021-01-01_shen_role_2021.html</link>
+      <link>/publication/2021-01-01_shen_role_2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-01-01_shen_role_2021.html</guid>
+      <guid>/publication/2021-01-01_shen_role_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swallow Motor Pattern Is Modulated by Fixed or Stochastic Alterations in Afferent Feedback</title>
-      <link>/publication/2020-01-01_king_swallow_2020.html</link>
+      <link>/publication/2020-01-01_king_swallow_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-01-01_king_swallow_2020.html</guid>
+      <guid>/publication/2020-01-01_king_swallow_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of the cerebellum in control of swallow: evidence of inspiratory activity during swallow</title>
-      <link>/publication/2019-01-01_reed_role_2019.html</link>
+      <link>/publication/2019-01-01_reed_role_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-01-01_reed_role_2019.html</guid>
+      <guid>/publication/2019-01-01_reed_role_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GABA-ergic neurotransmission in the nucleus of the solitary tract modulates cough in the cat</title>
-      <link>/publication/2018-01-01_kotmanova_gaba-ergic_2018.html</link>
+      <link>/publication/2018-01-01_kotmanova_gaba-ergic_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-01-01_kotmanova_gaba-ergic_2018.html</guid>
+      <guid>/publication/2018-01-01_kotmanova_gaba-ergic_2018/</guid>
       <description></description>
     </item>
     
