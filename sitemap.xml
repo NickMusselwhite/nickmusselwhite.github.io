@@ -4,12 +4,6 @@
   
   
   <url>
-    <loc>/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>/</loc><lastmod>2022-03-08T18:00:00+00:00</lastmod></url>
   <url>
     <loc>/talk/from-brain-to-breath-the-neural-control-of-respiration-and-airway-protection/</loc><lastmod>2022-03-08T18:00:00+00:00</lastmod></url>
@@ -41,10 +35,6 @@
     <loc>/author/tabitha-y.-shen/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/talk/basic-science-and-speech-language-pathology/</loc><lastmod>2021-09-11T18:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/publication/2021-01-01_musselwhite_differential_2021/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -158,4 +148,6 @@
   <url>
     <loc>/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/admin/</loc></url></urlset>
+    <loc>/admin/</loc></url>
+  <url>
+    <loc>/courses/</loc></url></urlset>
